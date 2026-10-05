@@ -33,7 +33,7 @@ export default defineConfig({
     reporter: [['html'],['github']],
     screenshot: 'on',
     video:'retain-on-failure',
-    trace: 'on-first-retry',
+    // trace: 'on-first-retry',
     
 
 
